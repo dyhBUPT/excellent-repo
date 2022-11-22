@@ -8,6 +8,7 @@ This repo lists some excellent repositories.
   - DeepSORT: https://github.com/nwojke/deep_sort
   - MMTracking: https://github.com/open-mmlab/mmtracking
   - YOLO-OSNet-StrongSORT: https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
+  - ByteTrack: https://github.com/ifzhang/ByteTrack
 
 - ReID: 
   - FastReID: https://github.com/JDAI-CV/fast-reid
