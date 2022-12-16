@@ -12,3 +12,6 @@ This repo lists some excellent repositories.
 
 - ReID: 
   - FastReID: https://github.com/JDAI-CV/fast-reid
+
+- SOT:
+  - https://github.com/visionml/pytracking
