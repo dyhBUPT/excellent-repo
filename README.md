@@ -5,6 +5,7 @@ This repo lists some excellent repositories.
   - Tools to Design or Visualize Architecture of Neural Network: https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 
 - MOT:
+  - Awesome MOT: https://github.com/luanshiyinyang/awesome-multiple-object-tracking
   - DeepSORT: https://github.com/nwojke/deep_sort
   - MMTracking: https://github.com/open-mmlab/mmtracking
   - YOLO-OSNet-StrongSORT: https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
