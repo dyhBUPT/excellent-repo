@@ -13,6 +13,7 @@ This repo lists some excellent repositories.
 
 - ReID: 
   - FastReID: https://github.com/JDAI-CV/fast-reid
+  - TorchReID: https://github.com/KaiyangZhou/deep-person-reid
 
 - SOT:
   - PyTracking: https://github.com/visionml/pytracking
