@@ -12,6 +12,7 @@ This repo lists some excellent repositories.
   - ByteTrack: https://github.com/ifzhang/ByteTrack
 
 - ReID: 
+  - Awesome ReID: https://github.com/bismex/Awesome-person-re-identification
   - FastReID: https://github.com/JDAI-CV/fast-reid
   - TorchReID: https://github.com/KaiyangZhou/deep-person-reid
 
