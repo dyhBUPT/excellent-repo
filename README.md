@@ -3,6 +3,7 @@ This repo lists some excellent repositories.
 
 - Tools:
   - Tools to Design or Visualize Architecture of Neural Network: https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+  - MMcloud (VPN)：https://github.com/cxmforever/notice-board
 
 - MOT:
   - Awesome MOT: https://github.com/luanshiyinyang/awesome-multiple-object-tracking
@@ -19,5 +20,5 @@ This repo lists some excellent repositories.
 - SOT:
   - PyTracking: https://github.com/visionml/pytracking
 
-- VPN：
-  - MMcloud：https://github.com/cxmforever/notice-board
+- Person Search:
+  - AlignPS (CVPR2021): https://github.com/daodaofr/AlignPS
