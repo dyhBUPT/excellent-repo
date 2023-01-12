@@ -7,10 +7,10 @@ This repo lists some excellent repositories.
 
 - MOT:
   - Awesome MOT: https://github.com/luanshiyinyang/awesome-multiple-object-tracking
-  - DeepSORT: https://github.com/nwojke/deep_sort
+  - DeepSORT (ICIP2017): https://github.com/nwojke/deep_sort
   - MMTracking: https://github.com/open-mmlab/mmtracking
   - YOLO-OSNet-StrongSORT: https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
-  - ByteTrack: https://github.com/ifzhang/ByteTrack
+  - ByteTrack (ECCV2022): https://github.com/ifzhang/ByteTrack
 
 - ReID: 
   - Awesome ReID: https://github.com/bismex/Awesome-person-re-identification
