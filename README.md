@@ -9,6 +9,7 @@ This repo lists some excellent repositories.
   - Awesome MOT: https://github.com/luanshiyinyang/awesome-multiple-object-tracking
   - DeepSORT (ICIP2017): https://github.com/nwojke/deep_sort
   - MMTracking: https://github.com/open-mmlab/mmtracking
+  - PaddleDetection: https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/mot
   - YOLO-OSNet-StrongSORT: https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
   - ByteTrack (ECCV2022): https://github.com/ifzhang/ByteTrack
 
