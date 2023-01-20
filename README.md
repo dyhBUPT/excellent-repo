@@ -17,6 +17,7 @@ This repo lists some excellent repositories.
   - Awesome ReID: https://github.com/bismex/Awesome-person-re-identification
   - FastReID: https://github.com/JDAI-CV/fast-reid
   - TorchReID: https://github.com/KaiyangZhou/deep-person-reid
+  - PyTorchReID: https://github.com/layumi/Person_reID_baseline_pytorch
   - CCPR List：https://github.com/wangxiao5791509/Cloth_Change_Person_reID_Paper_List
 
 - SOT:
