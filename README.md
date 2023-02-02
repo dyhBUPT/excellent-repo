@@ -12,6 +12,7 @@ This repo lists some excellent repositories.
   - PaddleDetection: https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/mot
   - YOLO-OSNet-StrongSORT: https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
   - ByteTrack (ECCV2022): https://github.com/ifzhang/ByteTrack
+  - Norfair: https://github.com/tryolabs/norfair
 
 - ReID: 
   - Awesome ReID: https://github.com/bismex/Awesome-person-re-identification
