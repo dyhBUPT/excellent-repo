@@ -4,8 +4,6 @@ This repo lists some excellent repositories.
 - Tools:
   - Tools to Design or Visualize Architecture of Neural Network: https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
   - MMcloud (VPN)：https://github.com/cxmforever/notice-board
-  - Misread t-SNE：https://github.com/distillpub/post--misread-tsne
-  - UMAP: https://github.com/lmcinnes/umap
 
 - MOT:
   - Awesome MOT: https://github.com/luanshiyinyang/awesome-multiple-object-tracking
@@ -33,3 +31,9 @@ This repo lists some excellent repositories.
   - Stable Diffusion: https://github.com/CompVis/stable-diffusion
   - Stable Diffusion WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
   - ControlNet: https://github.com/lllyasviel/ControlNet
+
+- Data Visualization (Dimension Reduction)
+  - t-SNE: https://lvdmaaten.github.io/tsne/
+  - Misread t-SNE：https://github.com/distillpub/post--misread-tsne
+  - UMAP: https://github.com/lmcinnes/umap
+  - Understanding UMAP: https://github.com/PAIR-code/understanding-umap
