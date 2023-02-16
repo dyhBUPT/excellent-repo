@@ -5,6 +5,7 @@ This repo lists some excellent repositories.
   - Tools to Design or Visualize Architecture of Neural Network: https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
   - MMcloud (VPN)：https://github.com/cxmforever/notice-board
   - Misread t-SNE：https://github.com/distillpub/post--misread-tsne
+  - UMAP: https://github.com/lmcinnes/umap
 
 - MOT:
   - Awesome MOT: https://github.com/luanshiyinyang/awesome-multiple-object-tracking
