@@ -27,3 +27,8 @@ This repo lists some excellent repositories.
 
 - Person Search:
   - AlignPS (CVPR2021): https://github.com/daodaofr/AlignPS
+  
+ - Diffusion Model:
+  - Stable Diffusion: https://github.com/CompVis/stable-diffusion
+  - Stable Diffusion WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  - ControlNet: https://github.com/lllyasviel/ControlNet
