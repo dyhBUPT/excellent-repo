@@ -25,7 +25,11 @@ This repo lists some excellent repositories.
   - PyTracking: https://github.com/visionml/pytracking
 
 - Person Search:
+  - AlignGAN (ICCV2019): https://github.com/wangguanan/AlignGAN
+  - JSIA-ReID (AAAI2020): https://github.com/wangguanan/JSIA-ReID
   - AlignPS (CVPR2021): https://github.com/daodaofr/AlignPS
+  - SeqNet (AAAI2021): https://github.com/serend1p1ty/SeqNet
+
   
 - Diffusion Model:
   - Stable Diffusion: https://github.com/CompVis/stable-diffusion
