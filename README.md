@@ -22,6 +22,10 @@ This repo lists some excellent repositories.
   - BoT (TMM 2019): https://github.com/michuanhaohao/reid-strong-baseline
   - CCPR List：https://github.com/wangxiao5791509/Cloth_Change_Person_reID_Paper_List
 
+- Super-Resolution：
+  - Awesome SR: https://github.com/ChaofWang/Awesome-Super-Resolution
+  - Real ESRGAN: https://github.com/xinntao/Real-ESRGAN
+
 - SOT:
   - PyTracking: https://github.com/visionml/pytracking
 
