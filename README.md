@@ -24,7 +24,8 @@ This repo lists some excellent repositories.
 
 - Super-Resolution：
   - Awesome SR: https://github.com/ChaofWang/Awesome-Super-Resolution
-  - Real ESRGAN: https://github.com/xinntao/Real-ESRGAN
+  - ESRGAN (ECCV2018): https://github.com/xinntao/ESRGAN
+  - Real-ESRGAN (ICCVW2021): https://github.com/xinntao/Real-ESRGAN
 
 - SOT:
   - PyTracking: https://github.com/visionml/pytracking
