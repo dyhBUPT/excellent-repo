@@ -48,3 +48,6 @@ This repo lists some excellent repositories.
   - Misread t-SNE：https://github.com/distillpub/post--misread-tsne
   - UMAP: https://github.com/lmcinnes/umap
   - Understanding UMAP: https://github.com/PAIR-code/understanding-umap
+  
+- Segmentation
+  - Segment Anything: https://github.com/facebookresearch/segment-anything
