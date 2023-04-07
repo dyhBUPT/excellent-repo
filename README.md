@@ -51,3 +51,4 @@ This repo lists some excellent repositories.
   
 - Segmentation
   - Segment Anything: https://github.com/facebookresearch/segment-anything
+  - Painter & SegGPT: https://github.com/baaivision/Painter
