@@ -30,6 +30,7 @@ This repo lists some excellent repositories.
 
 - SOT:
   - PyTracking: https://github.com/visionml/pytracking
+  - SiamTrackers: https://github.com/HonglinChu/SiamTrackers
 
 - Person Search:
   - AlignGAN (ICCV2019): https://github.com/wangguanan/AlignGAN
