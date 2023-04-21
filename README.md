@@ -32,6 +32,9 @@ This repo lists some excellent repositories.
   - PyTracking: https://github.com/visionml/pytracking
   - SiamTrackers: https://github.com/HonglinChu/SiamTrackers
   - SiamFC-pytorch: https://github.com/huanglianghua/siamfc-pytorch
+  - TransformerTracking: https://github.com/Little-Podi/Transformer_Tracking
+  - Online-Visual-Tracking-SOTA: https://github.com/wangdongdut/Online-Visual-Tracking-SOTA
+  - SOT-Learning: https://github.com/wangdongdut/SOT-Learning
 
 - Person Search:
   - AlignGAN (ICCV2019): https://github.com/wangguanan/AlignGAN
