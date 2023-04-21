@@ -35,6 +35,7 @@ This repo lists some excellent repositories.
   - TransformerTracking: https://github.com/Little-Podi/Transformer_Tracking
   - Online-Visual-Tracking-SOTA: https://github.com/wangdongdut/Online-Visual-Tracking-SOTA
   - SOT-Learning: https://github.com/wangdongdut/SOT-Learning
+  - PySOT: https://github.com/STVIR/pysot
 
 - Person Search:
   - AlignGAN (ICCV2019): https://github.com/wangguanan/AlignGAN
