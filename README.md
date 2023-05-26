@@ -23,6 +23,11 @@ This repo lists some excellent repositories.
   - QAConv (ECCV2020): https://github.com/ShengcaiLiao/QAConv
   - CCPR List：https://github.com/wangxiao5791509/Cloth_Change_Person_reID_Paper_List
 
+- Detection:
+  - YOLOv8: https://github.com/ultralytics/ultralytics
+  - MMDetection: https://github.com/open-mmlab/mmdetection
+  - MMYOLO: https://github.com/open-mmlab/mmyolo
+
 - Super-Resolution：
   - Awesome SR: https://github.com/ChaofWang/Awesome-Super-Resolution
   - ESRGAN (ECCV2018): https://github.com/xinntao/ESRGAN
