@@ -13,6 +13,7 @@ This repo lists some excellent repositories.
   - YOLO-OSNet-StrongSORT: https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
   - ByteTrack (ECCV2022): https://github.com/ifzhang/ByteTrack
   - Norfair: https://github.com/tryolabs/norfair
+  - FilterPy: https://github.com/rlabbe/filterpy/tree/master
 
 - ReID: 
   - Awesome ReID: https://github.com/bismex/Awesome-person-re-identification
