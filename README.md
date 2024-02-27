@@ -54,6 +54,7 @@ This repo lists some excellent repositories.
   - Stable Diffusion: https://github.com/CompVis/stable-diffusion
   - Stable Diffusion WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
   - ControlNet: https://github.com/lllyasviel/ControlNet
+  - DDPM_zoubohao: https://github.com/zoubohao/DenoisingDiffusionProbabilityModel-ddpm-
 
 - Data Visualization (Dimension Reduction)
   - t-SNE: https://lvdmaaten.github.io/tsne/
